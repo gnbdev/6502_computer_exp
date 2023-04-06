@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "W65C02")(type "KiCad")(uri "${KIPRJMOD}/libs/W65C02")(options "")(descr ""))
+  (lib (name "AS6C62256")(type "KiCad")(uri "${KIPRJMOD}/libs/AS6C62256")(options "")(descr ""))
+  (lib (name "AT28C64")(type "KiCad")(uri "${KIPRJMOD}/libs/AT28C64")(options "")(descr ""))
+  (lib (name "W65C51")(type "KiCad")(uri "${KIPRJMOD}/libs/W65C51")(options "")(descr ""))
+  (lib (name "W65C22")(type "KiCad")(uri "${KIPRJMOD}/libs/W65C22")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "W65C02")(type "KiCad")(uri "${KIPRJMOD}/libs/W65C02/W65C02S6TPG-14.kicad_sym")(options "")(descr ""))
+  (lib (name "W65C22")(type "KiCad")(uri "${KIPRJMOD}/libs/W65C22/W65C22S6TPG-14.kicad_sym")(options "")(descr ""))
+  (lib (name "W65C51")(type "KiCad")(uri "${KIPRJMOD}/libs/W65C51/W65C51N6TPG-14.kicad_sym")(options "")(descr ""))
+  (lib (name "AT28C64")(type "KiCad")(uri "${KIPRJMOD}/libs/AT28C64/AT28C64B-15PU.kicad_sym")(options "")(descr ""))
+  (lib (name "AS6C62256")(type "KiCad")(uri "${KIPRJMOD}/libs/AS6C62256/AS6C62256-55PCN.kicad_sym")(options "")(descr ""))
+)
